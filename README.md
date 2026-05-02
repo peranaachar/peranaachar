@@ -2,14 +2,14 @@
 I'm Peranaachar.  
 Aspiring developer currently learning programming and building projects.
 
-## 🌱 Learning
+##  Learning
 - Python
 - Web Development
 - Git & GitHub
 
-## 🛠️ Tools
+##  Tools
 - VS Code
 - GitHub
 
-## 📫 Connect
+##  Connect
 - GitHub: https://github.com/peranaachar
