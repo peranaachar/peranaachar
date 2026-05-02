@@ -1,5 +1,4 @@
-# Hi there 👋
-
+# Hey there!
 I'm Peranaachar.  
 Aspiring developer currently learning programming and building projects.
 
