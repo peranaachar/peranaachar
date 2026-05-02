@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**peranaachar/peranaachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Peranaachar.  
+Aspiring developer currently learning programming and building projects.
 
-Here are some ideas to get you started:
+## 🌱 Learning
+- Python
+- Web Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+- VS Code
+- GitHub
+
+## 📫 Connect
+- GitHub: https://github.com/peranaachar
